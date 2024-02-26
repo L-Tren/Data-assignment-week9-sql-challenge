@@ -79,10 +79,19 @@ The following results were obtained using the week9_sql_challenge_queries.sql an
 
 Data-assignment-week9-sql-challenge, Tutor Session with Khangwelo, personal communication (Zoom), February 25, 2024
 
-
 OpenAI. (2024). ChatGPT (GPT-3.5 architecture.) [Computer software]. Retrieved February 25, 2024, from https://openai.com/chatgpt
 
 Quick Database Diagrams. (2024). Retrieved February 25, 2024, from https://www.quickdatabasediagrams.com/
+
+University of Adelaide. (2024). 09-Ins_Joins. University of Adelaide VIRT-DATA-PT-12-2023-U-LOLC. https://git.bootcampcontent.com/University-of-Adelaide/UADEL-VIRT-DATA-PT-12-2023-U-LOLC/-/tree/main/09-SQL/1/Activities/09-Ins_Joins?ref_type=heads
+
+University of Adelaide. (2024). 09-Ins_Joins. University of Adelaide VIRT-DATA-PT-12-2023-U-LOLC. https://git.bootcampcontent.com/University-of-Adelaide/UADEL-VIRT-DATA-PT-12-2023-U-LOLC/-/tree/main/09-SQL/1/Activities/10-Par_Joins?ref_type=heads
+
+University of Adelaide. (2024). 04-Ins_Order_By. University of Adelaide VIRT-DATA-PT-12-2023-U-LOLC. https://git.bootcampcontent.com/University-of-Adelaide/UADEL-VIRT-DATA-PT-12-2023-U-LOLC/-/blob/main/09-SQL/2/Activities/04-Ins_Order_By/Solved/order_by_aggregates_solution.sql?ref_type=heads
+
+University of Adelaide. (2024). 06-Ins_Subqueries. University of Adelaide VIRT-DATA-PT-12-2023-U-LOLC. https://git.bootcampcontent.com/University-of-Adelaide/UADEL-VIRT-DATA-PT-12-2023-U-LOLC/-/blob/main/09-SQL/2/Activities/06-Ins_Subqueries/Solved/subqueries_solution.sql?ref_type=heads
+
+University of Adelaide. (2024). 07-Stu_Subqueries. University of Adelaide VIRT-DATA-PT-12-2023-U-LOLC. https://git.bootcampcontent.com/University-of-Adelaide/UADEL-VIRT-DATA-PT-12-2023-U-LOLC/-/blob/main/09-SQL/2/Activities/07-Stu_Subqueries/Solved/stu_subqueries_solution.sql?ref_type=heads
 
 
 
